@@ -42,6 +42,7 @@ body {
   overflow-x: hidden;
   transition: 0.5s;
   box-sizing: border-box;
+  overflow: -moz-scrollbars-none;
   overflow: auto; }
 
 .sidenav::-webkit-scrollbar {
