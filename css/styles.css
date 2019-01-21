@@ -331,7 +331,7 @@ header {
       margin: 0 0 2em 0; }
 
 .grid_item:nth-child(2n+1) {
-  padding: 0 44px 0 0; }
+  padding: 0 44px 20px 0; }
 
 .grid_item:nth-child(2n) {
   padding: 0  0 0 44px; }
